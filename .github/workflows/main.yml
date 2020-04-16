@@ -24,7 +24,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Build
-        run: ng build --prod=true --outputPath=dist
+        run: npm run deploy
 
       # Runs a set of commands using the runners shell
       - name: Deploy

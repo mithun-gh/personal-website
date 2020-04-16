@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -43,5 +43,6 @@
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
-  }
+  },
+  "license": "CC BY-NC-ND 4.0"
 }
